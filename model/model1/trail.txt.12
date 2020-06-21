@@ -1,0 +1,58 @@
+﻿!trail file version No. 1861
+!Creo  TM  4.0  (c) 2018 by PTC Inc.  All Rights Reserved.
+!Exit Logger data:
+!	Process ID: 124924
+!	Application: Creo_Parametric
+!	Start date&time: 2018/05/07  16:07:35
+!	language: usascii
+!	machine type: x86e_win64
+!	datecode: M010
+!	Server: NONE
+!	Workspace: NONE
+!	traceback file: D:\doc\PARUL\5th sem\Minor Project\model\files\traceback.log
+!end Exit Logger data.
+< 0 0.846222 1211 0 0 714 1366 0 0 768 13
+!mem_use INCREASE Blocks 737588, AppSize 71700839, SysSize 85073736
+< 0 0.618667 1041 0 0 522 1366 0 0 768 13
+< 0 0.618667 981 0 0 522 1366 0 0 768 13
+< 0 0.617481 981 0 0 521 1366 0 0 768 13
+< 0 0.617481 997 0 0 521 1366 0 0 768 13
+< 0 0.617481 1013 0 0 521 1366 0 0 768 13
+< 0 0.617481 1029 0 0 521 1366 0 0 768 13
+!%CIWelcome to Creo Parametric 4.0.
+!AFX datecode: 4.0 M010 2017.02.16.11
+!AFX exec path: C:\Program Files\PTC\Creo 4.0\M010\Common Files\afx\x86e_win64\afx40.dll
+!AFX text path: C:\Program Files\PTC\Creo 4.0\M010\Common Files\afx\
+< 0 0.744296 1029 0 0 628 1366 0 0 768 13
+< 0 0.617481 1029 0 0 521 1366 0 0 768 13
+#PART
+#RETRIEVE
+!%CPEnter object name: 
+!%TR
+D:\doc\PARUL\5th sem\Minor Project\model\files\bolt1.prt.1
+< 2 0.118519 178 0 0 100 1366 0 0 768 13
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+!Command ProCmdModelOpenExe was pushed from the software.
+! 7-May-18 16:07:38  Start D:\doc\PARUL\5th sem\Minor Project\model\files\bolt1.prt.1
+! 7-May-18 16:07:38  End   D:\doc\PARUL\5th sem\Minor Project\model\files\bolt1.prt.1
+@ oa_sel_filter_set _30_
+@ stack attr 2
+~ Timer `UI Desktop` `UI Desktop` `EmbedBrowserTimer`
+!Application (UNNAMED): running IPC-mode user_initialize
+!Application (UNNAMED): returned from IPC-mode user_initialize; status is 0
+!Application (UNNAMED): connected to Pro/E.
+!	exec path: C:\Program Files\PTC\Creo 4.0\M010\Common Files\x86e_win64\obj\mcp_applet_async.exe
+!	type: asynchronous
+~ Close `main_dlg_cur` `appl_casc`
+!mem_use INCREASE Blocks 814777, AppSize 112192115, SysSize 128248560
+~ Command `ProCmdMmModelProperties` 
+~ Close `mdlprops_dlg` `mdlprops_dlg`
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : Creo Parametric will terminate and any unsaved work will be lost.
+!               : Do you really want to exit?
+~ FocusIn `UI Message Dialog` `yes`
+~ Activate `UI Message Dialog` `yes`
+!End of Trail File
